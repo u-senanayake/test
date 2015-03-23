@@ -1,2 +1,3 @@
-# test
-Git hub test
+# test 
+hi ! this is testing Git
+
